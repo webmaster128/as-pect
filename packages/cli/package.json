@@ -48,5 +48,6 @@
   ],
   "devDependencies": {
     "assemblyscript": "github:AssemblyScript/assemblyscript"
-  }
+  },
+  "gitHead": "46b4edb927691c1bf2418e9ea626453a2f982b4f"
 }
